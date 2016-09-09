@@ -52,7 +52,7 @@ main img {
   border-radius: 50%;
 }
 
-main img:nth-child (2) {
+main li a img:nth-child (2) {
   width=100px
   height=100px
 }
