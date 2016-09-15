@@ -78,9 +78,7 @@ main p {
 }
 
 .social li a {
-  display: block;
   position: relative;
-  padding-left: 3rem;
   line-height: 2rem;
   vertical-align: middle;
   color: #999;
